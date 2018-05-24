@@ -1,0 +1,66 @@
+#start
+{
+	margin-top: 10%;
+	border:2px solid blue;
+	background: pink;
+  }
+
+  h1
+  {
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	font-size: 64px;
+	margin-bottom: 40px;
+	font-weight: bold;
+	color:blue;
+  }
+  
+  h2
+  {
+	font-size: 35px;
+	margin-bottom: 25px;
+  }
+  
+  h3
+  {
+	font-size: 25px;
+	margin-bottom: 10px;
+  }
+  
+body
+{
+	background-image: url("../images/background.jpg");
+	text-align: center;
+}
+
+html, body
+{
+  height:100%;
+}
+
+#container
+{
+  padding: 4% 0;
+  background-color: #FFF17A;
+  width:960px;
+  margin:4% auto;
+  box-sizing: border-box;
+  min-height: 80%;
+}
+
+button
+{
+  display:block;
+  width:350px;
+  height:120px;
+  margin: 12px auto 0 auto;
+  border:none;
+  border:2px solid blue;
+  background: pink;
+  font-size: 46px;;
+}
+
+#trivia-area h2
+{
+  margin-top: 50px;
+}
+
