@@ -15,7 +15,7 @@ var questions = [{
 }, {
   question: "2 . What is the common shortcut for the ''paste'' function?",
   answers: ["ctrl + p", "ctrl + s", "ctrl + v", "ctrl + c"],
-  correctAnswer: "ctrl v"
+  correctAnswer: "ctrl + v"
 }, {
   question: "3 . Which of the following is a video file format?",
   answers: [".png", ".avi", ".bmp", ".mp3"],
